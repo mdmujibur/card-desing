@@ -1,0 +1,123 @@
+  * {
+                    box-sizing: border-box;
+                    font-family: 'Roboto', sans-serif;
+                    margin: 0;
+                    padding: 0;
+                    font-size: 1.3rem;
+                }
+                
+                .heading__projct {
+                    margin: 1.5rem auto;
+                    width: 29rem;
+                    box-shadow: 5px 5px 10px 5px#999;
+                    border-radius: 0.6rem;
+                    padding: 1rem 0;
+                    border: 0.5 solid gray;
+                    text-align: center;
+                }
+                
+                .heading__projct h1 {
+                    font-size: 1.3rem;
+                    background-color: white;
+                }
+                
+                .projct__full {
+                    width: 29rem;
+                    margin: 2rem auto 4rem;
+                    padding: 0.5rem;
+                    box-shadow: 5px 5px 10px 5px#999;
+                    border-radius: 0.6rem;
+                    background-color: #ddd;
+                }
+                
+                .html__section {
+                    background-color: white;
+                    padding: 1rem;
+                    margin-bottom: 1rem;
+                    border-radius: .6rem;
+                }
+                
+                .section__css {
+                    background-color: white;
+                    padding: 1rem;
+                    border-radius: 0.6rem;
+                }
+                
+                .imgs__html {
+                    width: 100%;
+                    height: 60%;
+                    text-align: center;
+                    background-color: white;
+                    padding: 1rem 0;
+                }
+                
+                .imgs__css {
+                    width: 100%;
+                    height: 60%;
+                    text-align: center;
+                    background-color: white;
+                    padding: 1rem 0rem;
+                }
+                
+                .imgs__css img {
+                    width: 39%;
+                }
+                
+                .imgs__html img {
+                    width: 39%;
+                }
+                
+                .heading__tag {
+                    margin-top: 1.6rem;
+                }
+                
+                .heading__tag h2 {
+                    font-size: 1.3rem;
+                    margin: 1rem 0;
+                }
+                
+                .projct__information {
+                    text-align: justify;
+                }
+                
+                .swith1 {
+                    width: 100%;
+                    margin-top: 1rem;
+                    padding: 0.6rem;
+                    border-radius: 0.6rem;
+                    background-color: #f16529;
+                    border: none;
+                    outline: none;
+                }
+                
+                .swith1:hover {
+                    background-color: #2476fe;
+                }
+                
+                .swith2 {
+                    width: 100%;
+                    margin-top: 1rem;
+                    padding: 0.6rem;
+                    border-radius: 0.6rem;
+                    background-color: #2476fe;
+                    border: none;
+                    outline: none;
+                }
+                
+                .swith2:hover {
+                    background-color: #f16529;
+                }
+                
+                .heading__teg__css {
+                    margin: 1rem 0;
+                }
+                
+                .projct__infromation__css {
+                    text-align: justify;
+                }
+                
+                .html__section {
+                    border: 5px solid;
+                    border-radius: 10px;
+                    border: #ddd;
+                }
